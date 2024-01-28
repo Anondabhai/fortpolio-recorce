@@ -1,0 +1,16 @@
+/* fortpolio stareh style */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.text-praimry{
+    color:orange;
+}
+/* nav related style */
+nav{
+    display:flex;
+}
+.port-style{
+    color:#181818;
+    front-size:45px;
+    font-weight: 800;
+}
